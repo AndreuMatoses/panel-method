@@ -57,3 +57,9 @@ Finally it can be seen on figures *GUIScl* and *GUIAcl* some graphs and in figur
 ![](images/GUI/GUIAcl.png "GUIAcl")
 ![](images/GUI/GUISC.png "GUISC")
 ![](images/GUI/GUIAC.png "GUIAC")
+
+## References
+
+1. Jr. John D. Anderson. Fundamentals of Aerodynamics. Number ISBN 978-0-07-339810- 5. McGraw-Hill Series in Aeronautical and Aerospace Engineering, University of Mary- land, 5fth edition edition, October 2011.
+
+2. G. Dimitriadis. Panel methods. Université de Liège, Multibody Mechatronic Systems Laboratory, Lecture 4, 2010.
