@@ -1,12 +1,12 @@
 # Panel Method in MATLAB
-An implementation of the panels method for aerodynamic calculations for MATLAB. The code is part of a university assignment (Universitat Politécnica de València), and can be further improved as the code is not optimized.
-
 __Authors:__
 * Martínez Ibáñez, Josep Balbino
 * Matoses Gimenez, Andreu
 * Ortiz Moya, Álvaro
 * Ruiz López, Álvaro
 * Soriano Pascual, Fernando
+
+An implementation of the panels method for aerodynamic calculations for MATLAB. The code is part of a university assignment (Universitat Politécnica de València), and can be further improved as the code is not optimized.
 
 Two different panel methods are implemented, one for bodies that generate no lift,
 using only sources and sinks, and another one where circulation is taken into account,
